@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tela Inicial - Login e Cadastro</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Bem-vindo</h1>
+        <form id="loginForm">
+            <div class="form-group">
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" placeholder="Digite seu e-mail" required>
+            </div>
+            <div class="form-group">
+                <label for="password">Senha:</label>
+                <input type="password" id="password" placeholder="Digite sua senha" required>
+            </div>
+            <button type="submit" class="btn">Entrar</button>
+        </form>
+        <div class="links">
+            <a href="#" id="forgotPassword">Esqueceu sua senha?</a> |
+            <a href="#" id="register">Cadastre-se</a>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

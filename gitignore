@@ -1,0 +1,30 @@
+# Dependências do Node.js
+node_modules/
+
+# Arquivos de build
+/dist/
+/build/
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração de ambiente (como variáveis de ambiente)
+.env
+
+# Arquivos de sistema operacional (como Thumbs.db no Windows)
+.DS_Store
+Thumbs.db
+
+# Diretórios temporários do editor de código (VSCode, Sublime, etc.)
+.vscode/
+.idea/
+
+# Arquivos de pacotes do NPM
+package-lock.json
+
+# Arquivos do sistema
+*.swp
+*.bak
+
+# Arquivos de imagens temporárias
+*.tmp
