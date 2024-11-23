@@ -1,5 +1,6 @@
 # Dependências do Node.js
 node_modules/
+.env
 
 # Arquivos de build
 /dist/

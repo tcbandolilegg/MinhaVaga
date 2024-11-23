@@ -1,5 +1,7 @@
 ![Logo MinhaVaga](https://oaidalleapiprodscus.blob.core.windows.net/private/org-jt5wH0thchd39Ymn8dxuGGvc/user-h3f7s4pG0dER8vFf2UpjS68f/img-QxP91g5zk0hj2OIFkbyLY5g6.png)
 
+
+
 ---
 
 # **MinhaVaga**
